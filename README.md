@@ -34,4 +34,8 @@ NOTE : training images must be in the dimension of 277 X 277 (alexet processes o
 The aim of this project is to diagnose people affected by glaucoma prematurely and help people combat glaucoma in countries like UK , Nigeria,India where risk of getting permanent blindness is high due to glaucoma  unless it is found prematurely before it exacerbates .
 This project intends to save people like in a case of UK where a woman lost her eye sight due to Glaucoma due to delayed diagnosis and delayed appointments to meet the specialist.It aims to bring a immediate  identification  of  glaucoma using patient’s OCT fundus image  with  reliable accuracy .
 
+ if you have an queries please do contact with this mail id below :
+ contact:emplfizhpraveen@gmail.com
+ 
+ thank you for your time in exploring regarding deep learning project, i prompt you to quench your thirst for knowledge in your tireless quest and wish you a persistent and joyful learning
  
